@@ -8,6 +8,9 @@ This guide outlines the steps for testing the OFFDAY application, a WhatsApp hel
 
 To fully understand and evaluate the OFFDAY application, join both the OFFDAY Bot and the Sales Team Group:
 
+<a href="https://www.example.com" target="_blank">Link Text</a>
+
+
 ### OFFDAY Bot
 
 - **Access Link**: <a href="https://api.whatsapp.com/send?phone=601154272683" target="_blank">OFFDAY Bot</a>
