@@ -10,12 +10,12 @@ To fully understand and evaluate the OFFDAY application, join both the OFFDAY Bo
 
 ### OFFDAY Bot
 
-- **Access Link**: [OFFDAY Bot](https://api.whatsapp.com/send?phone=601154272683)
+- **Access Link**: [OFFDAY Bot](https://api.whatsapp.com/send?phone=601154272683){:target="_blank"}
 - **Purpose**: Acts as a receiver of messages for order creation, updates, and deletion (CRUD operations), simulating the business owner's interaction in managing orders.
 
 ### Sales Team Group
 
-- **Access Link**: [Sales Team Group](https://chat.whatsapp.com/JgXgHum1r6364Njb4wI7iG)
+- **Access Link**: [Sales Team Group](https://chat.whatsapp.com/JgXgHum1r6364Njb4wI7iG){:target="_blank"}
 - **Function**: Serves as a communication channel between the business owner and employees for internal coordination and updates on orders.
 
 ## Mandatory Compliance Required
